@@ -1,8 +1,27 @@
-# React + Vite
+# Unlok CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple CRUD (Create, Read, Update, Delete) application built using React that interacts with the **JSONPlaceholder API**. This app allows users to perform CRUD operations on fake data provided by the API.
 
-Currently, two official plugins are available:
+## 🚀 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Unlok CRUD App](banner-image-url)
+
+> _(Replace `banner-image-url` with the actual link to your banner image.)_
+
+## 📦 Dependencies
+
+The following libraries and tools are used in this project:
+
+- **React** - Frontend framework
+- **Axios** - For making API requests
+- **Tailwind CSS** - For styling
+- **React Icons** - For icons
+- **Top Loading Bar** - For showing progress during API calls
+
+## ⚡ Features
+
+- Fetch and display data from the JSONPlaceholder API
+- Create new entries
+- Edit existing entries
+- Delete entries
+- Responsive and user-friendly UI
