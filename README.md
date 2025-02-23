@@ -56,14 +56,6 @@ This project interacts with the **JSONPlaceholder API**, a free fake REST API fo
   - **PUT** `/posts/:id` - Update a post
   - **DELETE** `/posts/:id` - Delete a post
 
-## 🤝 Contributing
-
-Feel free to fork the project and make improvements!
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -80,3 +72,12 @@ This project is open-source and available under the **MIT License**.
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
   </a>
 </p>
+
+
+## 🤝 Contributing
+
+Feel free to fork the project and make improvements!
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
